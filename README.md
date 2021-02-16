@@ -1,24 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A recipe sharing website.
+Project 1 from Rails 4 Application Development HOTSHOT.
+source: https://www.amazon.com/Rails-4-Application-Development-Hotshot/dp/1783286296
